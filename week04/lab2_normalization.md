@@ -1,7 +1,7 @@
 # VUA-SEN307 Lab 2: Database Design & Normalization
 
-**Name:** Derique  
-**Matric Number:** 12878  
+**Name:** CHRIS-DERIQUE EHIZO 
+**Matric Number:** VUG/SEN/24/12878
 **Course:** VUA-SEN307 Database Systems  
 
 ---
